@@ -1,0 +1,4 @@
+# MCP Guardian uses Python's standard library (asyncio, tkinter, urllib, json, threading)
+# so it runs with zero external runtime dependencies out of the box.
+# Optional development/testing dependencies:
+pytest>=8.0.0
